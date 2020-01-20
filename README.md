@@ -3,6 +3,9 @@
 ## ❓ About
 >Παράλληλος και Κατανεμημένος Υπολογισμός
 
+## 👨‍💻 Description
+<img src="https://a.imagem.app/4Swze.png" alt="4Swze.png" border="0" width="300" />
+
 ## 🧰 Requirements
 
 #### [Visual Studio](https://visualstudio.microsoft.com/downloads/)
